@@ -1,8 +1,8 @@
 {
-  "version": "main",
+  "version": "0.0.3",
   "build": 3,
-  "notes": "Update to main",
-  "apk_url": "https://github.com/Roccodt/vsd-controller/releases/download/main/vsd-controller-main.apk",
-  "esp_version": "main",
+  "notes": "Manual reset to prepare for v0.0.4",
+  "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/v0.0.3/vsd-controller-v0.0.3.apk",
+  "esp_version": "0.0.3",
   "esp_firmware_url": ""
 }
