@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8",
-  "build": 8,
-  "notes": "Update to v0.0.8",
-  "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/v0.0.8/vsd-controller-v0.0.8.apk",
-  "esp_version": "0.0.8",
+  "version": "0.0.9",
+  "build": 9,
+  "notes": "Update to v0.0.9",
+  "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/v0.0.9/vsd-controller-v0.0.9.apk",
+  "esp_version": "0.0.9",
   "esp_firmware_url": ""
 }
