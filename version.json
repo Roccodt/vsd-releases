@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "build": 22,
+  "build": 23,
   "notes": "App update app-v1.0.3",
   "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v1.0.3/vsd-controller-app-v1.0.3.apk",
   "esp_version": "1.0.3",
