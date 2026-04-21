@@ -1,8 +1,8 @@
 {
   "version": "1.0.8",
   "build": 29,
-  "notes": "App update app-v1.0.8",
+  "notes": "ESP update esp-v1.0.9",
   "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v1.0.8/vsd-controller-app-v1.0.8.apk",
-  "esp_version": "1.0.8",
-  "esp_firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v1.0.8/vsd-controller-esp32s3-esp-v1.0.8.bin"
+  "esp_version": "1.0.9",
+  "esp_firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v1.0.9/vsd-controller-esp32s3-esp-v1.0.9.bin"
 }
