@@ -1,8 +1,8 @@
 {
-  "version": "2.11.2",
-  "build": 103,
-  "notes": "Patch update 2.11.2",
-  "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v2.11.0/vsd-controller-app-v2.11.0.apk",
+  "version": "2.12.0",
+  "build": 107,
+  "notes": "App update 2.12.0",
+  "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v2.12.0/vsd-controller-app-v2.12.0.apk",
   "esp_version": "2.0.40",
   "esp_firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v2.0.40/vsd-controller-esp32s3-esp-v2.0.40.bin"
 }
