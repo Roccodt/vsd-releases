@@ -10,7 +10,7 @@
     "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v3.0.19/vsd-controller-esp32s3-esp-v3.0.19.bin"
   },
   "v3_app": {
-    "version": "3.9.0",
+    "version": "3.9.1",
     "build": 19,
     "notes": "V3 App update 3.9.0",
     "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v3.9.0/vsd-controller-v3-app-v3.9.0.apk",
