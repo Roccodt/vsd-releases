@@ -17,7 +17,7 @@
     "package_name": "com.rdtautomation.vsd3"
   },
   "pivot_esp": {
-    "version": "1.0.5",
-    "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/pivot-esp-v1.0.5/pivot-esp-pivot-esp-v1.0.5.bin"
+    "version": "1.0.6",
+    "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/pivot-esp-v1.0.6/pivot-esp-pivot-esp-v1.0.6.bin"
   }
 }
