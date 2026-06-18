@@ -6,8 +6,8 @@
   "esp_version": "2.0.42",
   "esp_firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v2.0.42/vsd-controller-esp32s3-esp-v2.0.42.bin",
   "v3_esp": {
-    "version": "3.0.27",
-    "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v3.0.27/vsd-controller-esp32s3-esp-v3.0.27.bin"
+    "version": "3.1.1",
+    "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v3.1.1/vsd-controller-esp32s3-esp-v3.1.1.bin"
   },
   "v3_app": {
     "version": "3.14.1",
