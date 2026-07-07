@@ -23,5 +23,9 @@
   "v3_esp_a7670e": {
     "version": "3.1.1",
     "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-a7670e-v3.1.1/vsd-controller-a7670e-esp-a7670e-v3.1.1.bin"
+  },
+  "a7670e_gps": {
+    "version": "1.0.1",
+    "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/a7670e-gps-v1.0.1/a7670e-gps-a7670e-gps-v1.0.1.bin"
   }
 }
