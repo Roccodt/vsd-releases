@@ -10,7 +10,7 @@
     "firmware_url": "https://github.com/Roccodt/vsd-releases/releases/download/esp-v3.1.6/vsd-controller-esp32s3-esp-v3.1.6.bin"
   },
   "v3_app": {
-    "version": "3.15.0",
+    "version": "3.15.1",
     "build": 53,
     "notes": "V3 App update 3.15.0",
     "apk_url": "https://github.com/Roccodt/vsd-releases/releases/download/app-v3.15.0/vsd-controller-v3-app-v3.15.0.apk",
